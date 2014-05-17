@@ -1,0 +1,6 @@
+[
+	{ 
+		"caption": "Insert Semicolon", 
+		"command": "insert_semicolon" 
+	}
+]
