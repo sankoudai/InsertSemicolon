@@ -7,7 +7,7 @@ A [Sublime Text 2 ] (http://www.sublimetext.com/) plugin for conveniently insert
 
 ## Manual install
 	1. Go to Package directory  (`Preferences` --> `Browse packages`)
-	2. git clone git://github.com/sankoudai/InsertSemicolon
+	2. git clone git://github.com/sankoudai/InsertSemicolon.git
 
 	`Optionally, you can download the plugin and put it to Packages directory`
 
